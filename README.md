@@ -1,2 +1,2 @@
 # thinkphp
-thinkphp lib
+thinkphp libs
